@@ -8,4 +8,4 @@ const pool = new Pool({
     host: 'localhost',
   })
 
-  module.exports = { pool }
+  module.exports = pool
